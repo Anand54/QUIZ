@@ -1,0 +1,6 @@
+1)to create project:composer create-project codeigniter4/appstarter p-name
+2) remove php.ini of xampp file
+    ;extension=intl to extension=intl
+3) TO run project into server:
+      PHP spark serve
+
