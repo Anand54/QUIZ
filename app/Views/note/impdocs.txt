@@ -3,4 +3,6 @@
     ;extension=intl to extension=intl
 3) TO run project into server:
       PHP spark serve
+4) to route : app>config>route.php enable $routes->setAutoRoute(true);
+
 
